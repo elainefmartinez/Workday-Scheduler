@@ -15,3 +15,6 @@ The live example shows everything accuratley greyed out since my current time wa
 Credits:  //used examples from wk5(ex:18,24) for add and remove class
 //used related structure of locaStorage from this weeks miniproject code and parseInt
 //https://day.js.org/docs/en/display/format for formatting time display
+
+Deployment link:
+https://elainefmartinez.github.io/Workday-Scheduler/
